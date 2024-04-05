@@ -1,6 +1,28 @@
+Question1:
+The similar concepts between the companies:
+Making code reviews small.
+Respecting the codebase and the core maintainers. 
+Key differences: 
+Microsoft focuses more on communication styles, including the use of emojis.
+Yelp offers more comprehensive guidance, from the preparation phase to how to review the code.
+Checklist:
+code functionality
+adherence to coding standards
+code readability
+security considerations
+performance optimization
+inclusion of tests
+
+Question2:
 https://codereview.stackexchange.com/questions/216290/parking-lot-oo-design-python
 
 This review is helpful, it doesn't just point out code that should be changed but also gives pointers, guidelines, and
 examples on how it be changed. One example of this is the code provided for how the programmer would use enums, as well as
 the link to Python's page on them. Also, the way the review suggest better documentation follows the code review principle
 of ensuring maintability.
+
+Question3:
+https://codereview.stackexchange.com/questions/272674/oop-blackjack-in-python-3-9-9
+
+This review is bad because it is too long. He just paste all files in project. 
+To improvement, he needs to communicate the problem and purpose to the reviewer more effectively.
