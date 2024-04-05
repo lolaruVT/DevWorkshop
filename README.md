@@ -1,4 +1,5 @@
 # DevWorkshop
 Implementation/Testing workshop
 
-L Olaru vocaloidfan
+L Olaru(vocaloidfan)
+Jiale Song(sjiale)
