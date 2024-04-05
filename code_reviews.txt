@@ -1,0 +1,6 @@
+https://codereview.stackexchange.com/questions/216290/parking-lot-oo-design-python
+
+This review is helpful, it doesn't just point out code that should be changed but also gives pointers, guidelines, and
+examples on how it be changed. One example of this is the code provided for how the programmer would use enums, as well as
+the link to Python's page on them. Also, the way the review suggest better documentation follows the code review principle
+of ensuring maintability.
